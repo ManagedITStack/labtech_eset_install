@@ -9,4 +9,4 @@ Install ESET silently and ignore existing Antivirus products or those that were 
 
 Usage
 ----------
-`%windir%\LTSvc\packages\eset\eavbe_nt32_enu.msi IGNORE_CONFLICTS=1 ADMINCFG=%windir%\ltsvc\packages\eset\esetconfig.xml /qn REBOOT=ReallySuppress`
+    %windir%\LTSvc\packages\eset\eavbe_nt32_enu.msi IGNORE_CONFLICTS=1 ADMINCFG=%windir%\ltsvc\packages\eset\esetconfig.xml /qn REBOOT=ReallySuppress
